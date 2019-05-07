@@ -14,9 +14,11 @@ I love music, when I hear a great song, I search it on Youtube and try to store 
 ## CONFIGURATION ##
 - Your input will download from 2 different sources by default, ordered by search results(in case that the keyword may not be specific enough). Change this setting by edit `config.ini`.
 - `list.txt` must be in UTF-8 format.
+- To avoid abuse, you need to re-download it once a month.
 
 ## REFERENCE ##
 This project mainly depends on https://ytdl-org.github.io/youtube-dl/ , thanks!
+
 
 
 ----------
