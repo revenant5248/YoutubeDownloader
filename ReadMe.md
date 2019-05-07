@@ -2,7 +2,7 @@
 youtube.exe download mp3、HQ mp4 from youtube.com. Feed it a list, it search and download for you.
 
 ## STORY ##
-I love music, when I hear a greate song, I search it on Youtube and try to store it as a treasure. Although there are many Chrome plug-ins or websites claims that they help for it, but none of them is really handy. Some show annoying pop-up ads, and the other need you to copy youtube link manually. So I wondered, how about just put in a songs list, get the work done! That's why this project borned.
+I love music, when I hear a great song, I search it on Youtube and try to store it as a treasure. Although there are many Chrome plug-ins or websites claims that they help for it, but none of them is really handy. Some show annoying pop-up ads, and the other need you to copy youtube link manually. So I wondered, how about just put in a songs list, get the work done! That's why this project is born.
 
 ## EASY TO USE ##
 - Input songs/singer into each line in `list.txt`, you can use space to seperate keywords just like you do in Youtube search bar.
