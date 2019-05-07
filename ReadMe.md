@@ -1,5 +1,3 @@
-[link](#DESCRIPTION) dddddd
-
 ## DESCRIPTION ##
 youtube.exe download mp3、HQ mp4 from youtube.com. Feed it a list, it search and download for you.
 
